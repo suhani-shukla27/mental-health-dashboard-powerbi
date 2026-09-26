@@ -12,6 +12,7 @@ Includes prevalence percentages, case counts, and DALYs (Disability-Adjusted Lif
 ## Pages
 
 ### 1. Summary Page
+![Summary Page](images/summary.jpg)
 - World map showing mental health prevalence by country
 - KPI cards: Average Global Prevalence, Highest Prevalence, Average Disease Burden, Total Countries
 - Male vs. Female prevalence donut chart
