@@ -107,7 +107,30 @@ A raw, table-based view for anyone who wants to see or verify the exact underlyi
 - **Power Query** — data cleaning, column renaming, and transformation
 - **DAX** — custom measures for averages, maximums, and distinct counts
 
-## Files in this Repository
-- `disease prevelance.pbix` — the full Power BI project file
-- `data/mental_health_disorder-055.xlsx` — the cleaned dataset used to build the dashboard
-- `images/` — dashboard screenshots referenced in this README
+
+
+  * disease prevelance.pbix — the full Power BI project file
+  * data/mental_health_disorder-055.xlsx — the cleaned dataset used to build the dashboard
+  * images/ — dashboard screenshots referenced in this README
+  * README.md — project documentation
+
+## Project Structure
+
+```text
+mental-health-dashboard-powerbi/
+│
+├── data/
+│   └── mental_health_disorder-055.xlsx
+│
+├── images/
+│   ├── summary.jpg
+│   ├── summary-filtered.jpeg
+│   ├── drillthrough-page.jpg
+│   ├── drillthrough-menu.jpg
+│   ├── drillthrough-chart-expanded.jpg
+│   ├── detail.country.jpg
+│   └── detail-india.jpg
+│
+├── disease prevelance.pbix
+│
+└── README.md
